@@ -102,3 +102,4 @@ ENV/
 
 # PyCharm .idea directory
 */.idea/
+/flaskr/flaskr.db
