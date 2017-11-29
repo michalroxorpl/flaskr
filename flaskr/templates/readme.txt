@@ -1,0 +1,1 @@
+Inside the templates folder, Flask will look for Jinja2 templates.

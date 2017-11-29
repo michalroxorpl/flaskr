@@ -1,0 +1,1 @@
+As a quick side note, the files inside of the static folder are available to users of the application via HTTP. This is the place where CSS and JavaScript files go.
